@@ -1,0 +1,36 @@
+-----------
+Test Setup:
+-----------
+1. Java Setup
+	a. Download and install windows version of jdk-13 from www.oracle.com
+	b. Configure javapath(C:\Program Files\Java\jdk-13.0.2\bin) under the environment variables section
+2. Eclipse Installation
+	a. Download Eclipse (Eclipse IDE for Java Developers) from www.eclipse.org/downloads
+3. GIT Setup
+	a. Clone the GIT Repository from https://WK-ELMS@dev.azure.com/WK-ELMS/ELM-Engineering/_git/ELM-Eng-LegalVIEW-QA into your local.
+	b. Use HTTPS GIT credentials for authentication.
+4. Test Setup
+	a. Import the project in eclipse. 
+	b. Use the driver file for execution.	
+5. TestNG Installation in Eclipse
+	1. From Eclipse, Select Help -> Install New Software...
+	2. Enter the update site URL in "Work with:" field:
+		Update site for release: https://dl.bintray.com/testng-team/testng-eclipse-release/.
+	3. Make sure the check box next to URL is checked and click Next.
+	4. Eclipse will then guide you through the process.
+6. Maven setup 
+	1. Download apache-maven-***-bin.zip from https://maven.apache.org/download.cgi
+	2. Configure the maven folder path under the environment variables section by adding MAVEN_HOME as a variable.
+	3. Add the maven folder bin path under the environment variables
+	4. Use mvn --version in the command prompt to check, whether the maven is successfully installed or not.
+	
+--------------------------
+Maven Commands for devops:
+--------------------------
+1. mvn clean
+2. mvn compile
+3. mvn test
+4. mvn -Dtest=dashTest test
+5. mvn test -PSmoke
+6. mvn test -PRegression
+7. mvn test -PRegression -Dbrowser-chrome 

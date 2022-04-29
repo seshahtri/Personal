@@ -1,0 +1,72 @@
+EXECUTE,CLIENT,DASHBOARDNAME,VIZNAME
+1,DEV044,Spend Management,Top Matters by Spend
+1,DEV044,Spend Management,Legal Spend Year to Year by Month
+1,DEV044,Spend Management,Legal Spend by Practice Area
+1,DEV044,Spend Management,Top Matter Owners by Spend
+1,DEV044,Rate Management,Average Role Rate vs. Average Billed Rate
+1,DEV044,Rate Management,Blended Average Rate Year over Year
+1,DEV044,Rate Management,Blended Rate by Timekeeper Role Year over Year
+1,DEV044,Rate Management,Top Vendors by Average Blended Rate
+1,DEV044,Budget Management,Budget vs. Actual by Matter
+1,DEV044,Budget Management,Budget vs. Actual by Vendor
+1,DEV044,Budget Management,Budget vs. Actual by Business Unit
+1,DEV044,Budget Management,Budget vs. Actual by Practice Area
+1,DEV044,Budget Management,Budget vs. Actual
+1,DEV044,Inventory Management,Average Age of Open Matters by Month
+1,DEV044,Inventory Management,Matter Inventory by Business Unit
+1,DEV044,Inventory Management,Matter Inventory by Practice Area
+1,DEV044,Inventory Management,New Active and Closed Matters
+1,DEV044,Inventory Management,Opened and Closed Matters by Month and YTD
+1,DEV044,Inventory Management,Open Matters by Matter Owner
+1,DEV044,Operational Management,Average Open Matter Cost by Month
+1,DEV044,Operational Management,Invoice Approval Age by Matter Owner
+1,DEV044,Operational Management,Number of Open Matters by Vendor
+1,DEV044,Operational Management,Staffing Allocation by Vendor
+1,DEV044,Vendor Management,Top Vendors by Spend
+1,DEV044,Vendor Management,Number of Open Matters by Vendor
+1,DEV044,Vendor Management,Number of Billing Attorneys Top Biller by Firm
+1,DEV044,Vendor Management,Vendor Spend per Practice Area
+1,DEV044,Timekeeper Management,Staffing Allocation by Vendor
+1,DEV044,Timekeeper Management,Top Timekeepers by Spend
+1,DEV044,Timekeeper Management,Top Timekeepers by Hours
+1,DEV044,Timekeeper Management,Top Vendors by Spend - Number of Timekeepers by Role
+1,DEV044,AFA Management,AFA Savings by Vendor
+1,DEV044,AFA Management,AFA Savings by Practice Area
+1,DEV044,AFA Management,Adjustments by AFA Type by Practice Area
+1,DEV044,AFA Management,AFA Savings by AFA Type
+1,DEV044,AFA Management,Adjustments by AFA Type by Vendor
+1,C00348,Spend Management,Top Matters by Spend
+1,C00348,Spend Management,Monthly and YTD Total Spend
+1,C00348,Spend Management,Legal Spend Breakdown by Client Level
+1,C00348,Spend Management,Legal Spend Year to Year by Month
+1,C00348,Spend Management,Legal Spend Breakdown by GB Business Unit
+1,C00348,Spend Management,Matters Without Budgets
+1,C00348,Budget Management,Budget vs. Actual by Vendor
+1,C00348,Budget Management,Budget vs. Actual by GB Business Unit
+1,C00348,Budget Management,Budget vs. Actual by Client Level
+1,C00348,Budget Management,Budget vs. Actual by Matter
+1,C00348,Vendor Management,Top Vendors by Spend
+1,C00348,Vendor Management,Top Roles by Percent of Hours Billed
+1,C00348,Vendor Management,Top Vendors by Fees by Role
+1,C00348,Vendor Management,Staffing Allocation by Vendor
+1,C00348,Vendor Management,Monthly Fees by Phase
+1,C00348,Vendor Management,Top Roles by Fees
+1,C00348,Rate Management,Average Blended Rate for Top Vendors by Fees
+1,C00348,Rate Management,GB Client Billed Rate by Role
+1,C00348,Rate Management,Billed Rate by Timekeeper Role Year over Year
+1,C00348,Matter Inventory Management,Average Age of Open Matters by Month
+1,C00348,Matter Inventory Management,Matters Opened and Closed YTD by Month
+1,C00348,Matter Inventory Management,Matter Inventory by Client Level
+1,C00348,Matter Inventory Management,Matter Inventory by GB Business Unit
+1,C00348,Matter Inventory Management,Open Matters by Matter Owner
+1,C00348,Timekeeper Management,Top Timekeepers by Hours
+1,C00348,Timekeeper Management,Top Vendors by Spend - Number of Timekeepers by Role
+1,C00348,Timekeeper Management,Top Timekeepers by Spend
+1,C00348,GBLMP Vendor Management,Top Vendors by Spend
+1,C00348,GBLMP Vendor Management,Top Roles by Fees
+1,C00348,GBLMP Vendor Management,Top Vendors by Fees by Role
+1,C00348,GBLMP Vendor Management,Staffing Allocation by Vendor
+1,LBAME,LegalVIEW BillAnalyzer,Adjustments by Practice Area
+1,LBAME,LegalVIEW BillAnalyzer,Adjustments by Vendor
+1,LBAME,LegalVIEW BillAnalyzer,Appeals by Practice Area
+1,LBAME,LegalVIEW BillAnalyzer,Adjustments by Reason Code
